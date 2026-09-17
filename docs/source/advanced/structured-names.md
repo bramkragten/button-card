@@ -16,7 +16,7 @@ name:
   - type: entity
 ```
 
-Available part types are `entity`, `device`, `parent_device`, `area`, `floor`,
+Available part types are `entity`, `device`, `area`, `floor`,
 and `text` for a literal:
 
 ```yaml
